@@ -1,0 +1,16 @@
+[
+  {
+    "id": {
+      "scope": "learnbit-react.material-ui",
+      "name": "theme/theme-provider"
+    },
+    "head": "b688a43c3ca7a5442a215101bdd6e0a1441ec8ef"
+  },
+  {
+    "id": {
+      "scope": "learnbit-react.material-ui",
+      "name": "theme/my-theme"
+    },
+    "head": "e1cd6ba90a9ad94b0b1b8fc81ba7b6c1f3c98d52"
+  }
+]

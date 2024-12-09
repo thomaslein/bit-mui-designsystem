@@ -1,0 +1,16 @@
+[
+  {
+    "id": {
+      "scope": "teambit.harmony",
+      "name": "harmony"
+    },
+    "head": "7cb79548ef537cf7143b4ed91f172eed599d94ec"
+  },
+  {
+    "id": {
+      "scope": "teambit.harmony",
+      "name": "content/cli-reference"
+    },
+    "head": "26282c34c520259781bc0b065c762c6c12392547"
+  }
+]

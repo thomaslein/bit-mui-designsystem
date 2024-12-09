@@ -1,0 +1,541 @@
+{
+  "components": [
+    {
+      "id": {
+        "scope": "bitdev.react",
+        "name": "react-env"
+      },
+      "isSymlink": false,
+      "hash": "332d61722e10572fbaef5995407ebdce773c6a7e"
+    },
+    {
+      "id": {
+        "scope": "learnbit-react.material-ui",
+        "name": "theme/theme-provider"
+      },
+      "isSymlink": false,
+      "hash": "f9f4358afcb78701c97c3a1db2f8ade8e908f107"
+    },
+    {
+      "id": {
+        "scope": "learnbit-react.material-ui",
+        "name": "theme/my-theme"
+      },
+      "isSymlink": false,
+      "hash": "247823cb64ab558881e02a299085400312285af2"
+    },
+    {
+      "id": {
+        "scope": "teambit.harmony",
+        "name": "harmony"
+      },
+      "isSymlink": false,
+      "hash": "c83e2880bfc31ee69bcbe80fa2d8856a6cf1a618"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "envs/react-mui"
+      },
+      "isSymlink": false,
+      "hash": "21d8d1aac88d2c222ab893eaf15c4755fc1d63df"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "mui/theme/theme-provider"
+      },
+      "isSymlink": false,
+      "hash": "8817a4d917b0b7018195b3079c64d7f5cde0cb5d"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "ui/button"
+      },
+      "isSymlink": false,
+      "hash": "d02d271a08bfeb8368e1b9174fae84afa902cbe2"
+    },
+    {
+      "id": {
+        "scope": "bitdesign.material-ui",
+        "name": "envs/material-ui-env"
+      },
+      "isSymlink": false,
+      "hash": "762e7c2239e8c6fdc23359d7effd25d081ba8dfa"
+    },
+    {
+      "id": {
+        "scope": "bitdev.general",
+        "name": "envs/bit-env"
+      },
+      "isSymlink": false,
+      "hash": "689a54288ee6bcbfe1bab66173e3e1cd2acef266"
+    },
+    {
+      "id": {
+        "scope": "bitdev.general",
+        "name": "readme-env"
+      },
+      "isSymlink": false,
+      "hash": "1c3ae11cc8303be4b292419d0d3933723e9e2019"
+    },
+    {
+      "id": {
+        "scope": "teambit.preview",
+        "name": "react-preview"
+      },
+      "isSymlink": false,
+      "hash": "ce5c12606caf75f48f9ac053f7e6e6d4e002b30b"
+    },
+    {
+      "id": {
+        "scope": "teambit.react",
+        "name": "react-env"
+      },
+      "isSymlink": false,
+      "hash": "b2ee4ccd9145c2c8be734d43c29d97bb54a99c0e"
+    },
+    {
+      "id": {
+        "scope": "teambit.docs",
+        "name": "docs-template"
+      },
+      "isSymlink": false,
+      "hash": "11bd9e376c59bf104f9a9c37f482244176ca7423"
+    },
+    {
+      "id": {
+        "scope": "teambit.react",
+        "name": "mounter"
+      },
+      "isSymlink": false,
+      "hash": "586a20562a9166bc7ed2f2e95fc02604ce281408"
+    },
+    {
+      "id": {
+        "scope": "teambit.mdx",
+        "name": "ui/mdx-scope-context"
+      },
+      "isSymlink": false,
+      "hash": "cc7cd9acc608063b4575e5462aa054e31a39311a"
+    },
+    {
+      "id": {
+        "scope": "teambit.harmony",
+        "name": "content/cli-reference"
+      },
+      "isSymlink": false,
+      "hash": "263d6893d560d2f3592d6658bd4f88d7659a837a"
+    },
+    {
+      "id": {
+        "scope": "teambit.community",
+        "name": "ui/bit-cli/commands-explorer"
+      },
+      "isSymlink": false,
+      "hash": "550647df3dc44227be923df95b367e27200a6fbd"
+    },
+    {
+      "id": {
+        "scope": "teambit.community",
+        "name": "ui/bit-cli/commands-provider"
+      },
+      "isSymlink": false,
+      "hash": "459dd64156034b14d97536b9748f738f4b78c502"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "data-display/avatar"
+      },
+      "isSymlink": false,
+      "hash": "97ac749e2f499f881825f773c603aaa0258a40f5"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "data-display/badge"
+      },
+      "isSymlink": false,
+      "hash": "6c374938b38afdc94eec3c2603a6194bd518dfcf"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "data-display/chip"
+      },
+      "isSymlink": false,
+      "hash": "c290cf133aa5b5ee91df20817dae324ecd2ffa5e"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "data-display/divider"
+      },
+      "isSymlink": false,
+      "hash": "deb41bd576a9f9af12545a5b8711ef3c14988aed"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "data-display/list"
+      },
+      "isSymlink": false,
+      "hash": "a8dca6641ac989a4326bd34fa119c8943828b457"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "data-display/table"
+      },
+      "isSymlink": false,
+      "hash": "0e3b4ce61d35ff8ced17f256bbae641de339b2d5"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "data-display/tooltip"
+      },
+      "isSymlink": false,
+      "hash": "fa4dc43f1b6b1ae969f09f00d8eb9cbf4413f4a4"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "data-display/typography"
+      },
+      "isSymlink": false,
+      "hash": "1c0a3b805fa00873d407c39b1fd12ec1b6f76c33"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "envs/material-ui-env"
+      },
+      "isSymlink": false,
+      "hash": "623eba3557da7441259265e241f0b9d828ceced6"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "feedback/alert"
+      },
+      "isSymlink": false,
+      "hash": "940c5cb1419e30cc44ce2f5de5f0eeeb69305302"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "feedback/backdrop"
+      },
+      "isSymlink": false,
+      "hash": "7197a58a8136da57e9e5b6c96531a28ac082db46"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "feedback/dialog"
+      },
+      "isSymlink": false,
+      "hash": "4420f5d39531099ad585fe0aafcb38dc8109c155"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "feedback/progress"
+      },
+      "isSymlink": false,
+      "hash": "01b2d6be12788a083ed643f9422f1eedbbf84450"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "feedback/skeleton"
+      },
+      "isSymlink": false,
+      "hash": "eec759bbdfabda4f6d0fe9c6748b7985f4d42322"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "feedback/snackbar"
+      },
+      "isSymlink": false,
+      "hash": "bd45699d23f698d38abd449b8281d78ce8bc5ffb"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "inputs/autocomplete"
+      },
+      "isSymlink": false,
+      "hash": "6c12ec92e282346d5a653f0a572eaaefe0446bcc"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "inputs/button"
+      },
+      "isSymlink": false,
+      "hash": "f6a37af8bde3fab05b2429f0c13a7052be615412"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "inputs/button-group"
+      },
+      "isSymlink": false,
+      "hash": "e5cf11bcd2ad47431c5cc1c295f40dfcf90b20bd"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "inputs/checkbox"
+      },
+      "isSymlink": false,
+      "hash": "72010a45f7343437bc8dbac5977a9769a2c28670"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "inputs/floating-action-button"
+      },
+      "isSymlink": false,
+      "hash": "12e9f941b0120b05000810d61021d6994e1df2f1"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "inputs/form"
+      },
+      "isSymlink": false,
+      "hash": "fcd332ee9dceefdd40aed13f42af4e05f1a3334f"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "inputs/input"
+      },
+      "isSymlink": false,
+      "hash": "124e8fea849ea6d45945e1718a60f917477e5ba1"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "inputs/radio-group"
+      },
+      "isSymlink": false,
+      "hash": "7936c96566efb7fc0661e68dacceb88f0028478e"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "inputs/rating"
+      },
+      "isSymlink": false,
+      "hash": "b74ba6a74966a3994e156a979d357a74db847134"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "inputs/select"
+      },
+      "isSymlink": false,
+      "hash": "203a8a3dac54f158780f2311b54303417c77eeca"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "inputs/slider"
+      },
+      "isSymlink": false,
+      "hash": "8faa25e05c7109c9712e9340c82b8368fa030e40"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "inputs/switch"
+      },
+      "isSymlink": false,
+      "hash": "9c0607e282f1712613801b5cb17b01d76d401a63"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "inputs/text-field"
+      },
+      "isSymlink": false,
+      "hash": "b30ed6d93e9f282967476d038ce3ba0e626d0a64"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "inputs/toggle-button"
+      },
+      "isSymlink": false,
+      "hash": "f7b470f70b0ecd0f892c123543f29ec8ad27e077"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "layout/box"
+      },
+      "isSymlink": false,
+      "hash": "c834afdb6abb7a78655138af08f602040761695c"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "layout/container"
+      },
+      "isSymlink": false,
+      "hash": "6bd8e61756e855fefe52673e3d4225bf11220b65"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "layout/grid"
+      },
+      "isSymlink": false,
+      "hash": "79f0ea0eb6538906483b024f53ae5801b3af9ec6"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "layout/image-list"
+      },
+      "isSymlink": false,
+      "hash": "37fe72fc8b4164c2547e95b9d234e9f48ed74e00"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "layout/stack"
+      },
+      "isSymlink": false,
+      "hash": "a1b5f5d4d9f762e8804b8aaa08c222666aa74e56"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "material-ui-theme"
+      },
+      "isSymlink": false,
+      "hash": "9593a83784c51daa2ff126eea3a1c3d16c95e642"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "navigation/bottom-navigation"
+      },
+      "isSymlink": false,
+      "hash": "744a4df1091d09758483f43e84d84ab901114627"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "navigation/breadcrumbs"
+      },
+      "isSymlink": false,
+      "hash": "db1f17d1b0d65477fa81c23a11fb3dfc088135d6"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "navigation/drawer"
+      },
+      "isSymlink": false,
+      "hash": "ce6220abf5aa693f6a3aec054315b3758bb938bd"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "navigation/link"
+      },
+      "isSymlink": false,
+      "hash": "10b715a55220ac98ec2117a355c65adcf6799c95"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "navigation/menu"
+      },
+      "isSymlink": false,
+      "hash": "6ea7ae0434729b70477a76fbae57915d752f585c"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "navigation/pagination"
+      },
+      "isSymlink": false,
+      "hash": "9f9893baf974f629feeff34ab055c75747714a17"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "navigation/speed-dial"
+      },
+      "isSymlink": false,
+      "hash": "747963970b55e40cbe9e17e76bbd9026fc39a73d"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "navigation/stepper"
+      },
+      "isSymlink": false,
+      "hash": "aed307241a230e1fbbd123305b8613b04ec880a5"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "navigation/tabs"
+      },
+      "isSymlink": false,
+      "hash": "d906ee50ee21611525f48234a5dac0e999da63a0"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "readme"
+      },
+      "isSymlink": false,
+      "hash": "52078d4ce0d4ef0a2f5bbc2162f1deb5fc758d4c"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "surfaces/accordion"
+      },
+      "isSymlink": false,
+      "hash": "7e6a2b48c5087241ae00fa5e1ac8825e007ff981"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "surfaces/app-bar"
+      },
+      "isSymlink": false,
+      "hash": "91c1c0b14495535116fb4996b0d4ff1ebf63d410"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "surfaces/card"
+      },
+      "isSymlink": false,
+      "hash": "1003f39d171ea054a1ee17c8a6194dc7e14e4d54"
+    },
+    {
+      "id": {
+        "scope": "kreftregisteret.designsystem",
+        "name": "surfaces/paper"
+      },
+      "isSymlink": false,
+      "hash": "5da552412b4c4605f8b77d50077ae8469d18952e"
+    }
+  ],
+  "lanes": []
+}

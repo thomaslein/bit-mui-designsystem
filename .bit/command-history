@@ -1,0 +1,201 @@
+2024-11-14T08:46:35.307Z 49057 server --port 27506, started
+2024-11-14T08:56:13.401Z 49427 status, started
+2024-11-14T08:56:13.513Z 49427 status, succeeded
+2024-11-14T13:45:40.331Z 55996 server --port 4707, started
+2024-11-18T10:46:54.222Z 85514 scope set kreftregisteret.designsysteme, started
+2024-11-18T10:46:54.343Z 85514 scope set kreftregisteret.designsysteme, succeeded
+2024-11-18T10:47:07.605Z 85588 scope set kreftregisteret.designsystem, started
+2024-11-18T10:47:07.714Z 85588 scope set kreftregisteret.designsystem, succeeded
+2024-11-18T10:49:32.294Z 85803 server --port 3945, started
+2024-11-18T10:58:50.769Z 86134 create react ui/button, started
+2024-11-18T10:59:31.791Z 86134 create react ui/button, succeeded
+2024-11-18T11:00:34.093Z 86345 install @mui/material @emotion/react @emotion/styled --type peer, started
+2024-11-18T11:00:41.856Z 86345 install @mui/material @emotion/react @emotion/styled --type peer, succeeded
+2024-11-18T11:01:22.930Z 86440 start, started
+2024-11-18T11:02:52.351Z 86564 fork learn-bit-react.ui-library-wrappers/mui/theme/theme-provider, started
+2024-11-18T11:03:12.181Z 86564 fork learn-bit-react.ui-library-wrappers/mui/theme/theme-provider, succeeded
+2024-11-18T11:04:14.599Z 86662 fork learn-bit-react.ui-library-wrappers/mui/plugins/react-with-mui envs/react-with-mui, started
+2024-11-18T11:04:24.595Z 86662 fork learn-bit-react.ui-library-wrappers/mui/plugins/react-with-mui envs/react-with-mui, succeeded
+2024-11-18T11:10:36.616Z 87058 env set ui/button envs/react-with-mui, started
+2024-11-18T11:10:37.002Z 87058 env set ui/button envs/react-with-mui, failed
+2024-11-18T11:12:09.783Z 87143 env set ui/button envs/react-with-mui, started
+2024-11-18T11:12:10.080Z 87143 env set ui/button envs/react-with-mui, failed
+2024-11-18T11:16:07.516Z 87424 env set ui/button envs/react-with-mui, started
+2024-11-18T11:16:07.901Z 87424 env set ui/button envs/react-with-mui, failed
+2024-11-18T11:17:45.727Z 87509 envs ahow, started
+2024-11-18T11:17:53.157Z 87542 envs list, started
+2024-11-18T11:17:53.260Z 87542 envs list, succeeded
+2024-11-18T11:18:55.968Z 87615 envs list, started
+2024-11-18T11:18:56.074Z 87615 envs list, succeeded
+2024-11-18T11:19:05.858Z 87658 env set ui/button envs/react-with-mui, started
+2024-11-18T11:19:06.244Z 87658 env set ui/button envs/react-with-mui, failed
+2024-11-18T11:20:14.929Z 87738 envs list, started
+2024-11-18T11:20:15.034Z 87738 envs list, succeeded
+2024-11-18T11:20:18.842Z 87773 env set ui/button envs/react-with-mui, started
+2024-11-18T11:20:19.215Z 87773 env set ui/button envs/react-with-mui, failed
+2024-11-18T11:21:07.414Z 87858 env set ui/button envs/react-with-mui, started
+2024-11-18T11:21:07.725Z 87858 env set ui/button envs/react-with-mui, failed
+2024-11-18T11:24:59.355Z 88021 env set ui/button @kreftregisteret/designsystem/envs/react-with-mui, started
+2024-11-18T11:25:00.218Z 88021 env set ui/button @kreftregisteret/designsystem/envs/react-with-mui, failed
+2024-11-18T11:25:13.620Z 88064 env set ui/button designsystem/envs/react-with-mui, started
+2024-11-18T11:25:24.854Z 88064 env set ui/button designsystem/envs/react-with-mui, failed
+2024-11-18T11:25:36.680Z 88114 env set ui/button envs/react-with-mui, started
+2024-11-18T11:25:37.064Z 88114 env set ui/button envs/react-with-mui, failed
+2024-11-18T11:25:44.642Z 88149 show envs, started
+2024-11-18T11:25:44.771Z 88149 show envs, failed
+2024-11-18T11:25:57.079Z 88187 show envs/react-with-mui, started
+2024-11-18T11:25:57.384Z 88187 show envs/react-with-mui, succeeded
+2024-11-18T11:27:30.630Z 88273 env set ui/button envs/react-with-mui, started
+2024-11-18T11:27:30.927Z 88273 env set ui/button envs/react-with-mui, failed
+2024-11-18T11:30:06.667Z 88394 env set ui/button envs/react-with-mui, started
+2024-11-18T11:30:07.260Z 88394 env set ui/button envs/react-with-mui, failed
+2024-11-18T11:30:35.029Z 88444 show envs/react-with-mui, started
+2024-11-18T11:30:35.337Z 88444 show envs/react-with-mui, succeeded
+2024-11-18T11:30:54.460Z 88489 show envs/react-with-mui, started
+2024-11-18T11:30:54.770Z 88489 show envs/react-with-mui, succeeded
+2024-11-18T11:32:03.732Z 88570 env set ui/button envs/react-with-mui, started
+2024-11-18T11:32:04.115Z 88570 env set ui/button envs/react-with-mui, failed
+2024-11-18T21:13:50.018Z 92190 env set ui/button envs/react-with-mui, started
+2024-11-18T21:13:50.661Z 92190 env set ui/button envs/react-with-mui, failed
+2024-11-18T21:13:56.282Z 92227 envs, started
+2024-11-18T21:13:58.443Z 92227 envs, succeeded
+2024-11-18T21:14:53.815Z 92302 envs, started
+2024-11-18T21:14:55.184Z 92302 envs, succeeded
+2024-11-18T21:15:09.278Z 92343 env set ui/button envs/react-with-mui, started
+2024-11-18T21:15:09.739Z 92343 env set ui/button envs/react-with-mui, failed
+2024-11-18T21:26:26.368Z 92741 remove envs/mui-with-react, started
+2024-11-18T21:26:29.090Z 92741 remove envs/mui-with-react, failed
+2024-11-18T21:26:41.209Z 92782 list, started
+2024-11-18T21:26:41.333Z 92782 list, succeeded
+2024-11-18T21:27:35.033Z 92838 fork @teambit/react/envs/react envs/react-mui, started
+2024-11-18T21:27:36.054Z 92838 fork @teambit/react/envs/react envs/react-mui, failed
+2024-11-18T21:33:23.742Z 93053 fork learnbit-react.material-ui/envs/react18-with-mui@0.0.3 envs/react-mui, started
+2024-11-18T21:33:28.889Z 93053 fork learnbit-react.material-ui/envs/react18-with-mui@0.0.3 envs/react-mui, failed
+2024-11-18T21:34:02.407Z 93141 remove designsystem/envs/react-with-mui, started
+2024-11-18T21:34:04.200Z 93141 remove designsystem/envs/react-with-mui, failed
+2024-11-18T21:34:13.703Z 93180 remove designsystem.envs/react-with-mui, started
+2024-11-18T21:34:15.743Z 93180 remove designsystem.envs/react-with-mui, failed
+2024-11-18T21:34:23.611Z 93219 fork learnbit-react.material-ui/envs/react18-with-mui@0.0.3 envs/react-mui, started
+2024-11-18T21:34:25.012Z 93219 fork learnbit-react.material-ui/envs/react18-with-mui@0.0.3 envs/react-mui, failed
+2024-11-18T21:34:55.413Z 93273 env set ui/button envs/react-mui, started
+2024-11-18T21:34:56.949Z 93273 env set ui/button envs/react-mui, succeeded
+2024-11-18T21:35:06.659Z 93312 install, started
+2024-11-18T21:35:07.172Z 93312 install, failed
+2024-11-18T21:35:20.248Z 93356 envs, started
+2024-11-18T21:35:20.698Z 93356 envs, failed
+2024-11-18T21:35:51.851Z 93413 remove kreftregisteret.designsystem/envs/react-with-mui, started
+2024-11-18T21:35:53.724Z 93413 remove kreftregisteret.designsystem/envs/react-with-mui, succeeded
+2024-11-18T21:35:57.386Z 93472 envs, started
+2024-11-18T21:35:57.841Z 93472 envs, succeeded
+2024-11-18T21:37:09.326Z 93551 show ui/button, started
+2024-11-18T21:37:10.063Z 93551 show ui/button, succeeded
+2024-11-18T21:37:17.617Z 93590 start, started
+2024-11-18T21:40:30.355Z 93829 env set ui/button envs/react-mui, started
+2024-11-18T21:40:30.844Z 93829 env set ui/button envs/react-mui, succeeded
+2024-11-18T21:40:38.646Z 93868 install, started
+2024-11-18T21:40:57.146Z 93868 install, succeeded
+2024-11-18T21:42:10.757Z 94188 start, started
+2024-11-18T21:43:32.056Z 94349 show ui/button, started
+2024-11-18T21:43:32.530Z 94349 show ui/button, succeeded
+2024-11-18T21:44:27.556Z 94418 list, started
+2024-11-18T21:44:27.687Z 94418 list, succeeded
+2024-11-18T21:45:34.104Z 94490 fork learn-bit-react.ui-library-wrappers/mui/theme/theme-provider, started
+2024-11-18T21:45:35.411Z 94490 fork learn-bit-react.ui-library-wrappers/mui/theme/theme-provider, failed
+2024-11-18T21:46:04.504Z 94557 show designsystem/mui/theme/theme-provider, started
+2024-11-18T21:46:15.864Z 94557 show designsystem/mui/theme/theme-provider, failed
+2024-11-18T21:46:42.551Z 94609 show @kreftregisteret.designsystem/mui/theme/theme-provider, started
+2024-11-18T21:46:43.709Z 94609 show @kreftregisteret.designsystem/mui/theme/theme-provider, failed
+2024-11-18T21:47:02.838Z 94657 list, started
+2024-11-18T21:47:02.965Z 94657 list, succeeded
+2024-11-18T21:47:11.953Z 94694 show │ kreftregisteret.designsystem/mui/theme/theme-provider, started
+2024-11-18T21:47:18.817Z 94723 show kreftregisteret.designsystem/mui/theme/theme-provider, started
+2024-11-18T21:47:19.146Z 94723 show kreftregisteret.designsystem/mui/theme/theme-provider, succeeded
+2024-11-18T21:47:31.263Z 94766 srart, failed
+2024-11-18T21:47:36.013Z 94798 start, started
+2024-11-18T21:48:54.264Z 94927 install, started
+2024-11-18T21:49:03.489Z 94927 install, succeeded
+2024-11-18T21:49:06.345Z 94971 start, started
+2024-11-18T21:52:11.289Z 95231 list, started
+2024-11-18T21:52:11.427Z 95231 list, succeeded
+2024-11-18T21:52:27.179Z 95275 add @kreftregisteret.designsystem/mui/theme/theme-provide, started
+2024-11-18T21:52:27.308Z 95275 add @kreftregisteret.designsystem/mui/theme/theme-provide, failed
+2024-11-18T21:52:39.341Z 95313 compile, started
+2024-11-18T21:52:40.141Z 95313 compile, succeeded
+2024-11-18T21:52:46.972Z 95369 start, started
+2024-11-18T21:53:13.979Z 95444 import, started
+2024-11-18T21:53:14.112Z 95444 import, succeeded
+2024-11-18T21:53:18.506Z 95481 compile, started
+2024-11-18T21:53:19.196Z 95481 compile, succeeded
+2024-11-18T21:53:50.993Z 95536 status, started
+2024-11-18T21:53:51.484Z 95536 status, succeeded
+2024-11-18T21:54:30.381Z 95590 tag -m Add env and simple button, started
+2024-11-18T21:54:31.720Z 95590 tag -m Add env and simple button, succeeded
+2024-11-18T21:54:41.129Z 95635 export, started
+2024-11-18T21:54:52.940Z 95635 export, succeeded
+2024-11-18T21:56:46.706Z 95727 tag -m Add env and simple button, started
+2024-11-18T21:56:48.017Z 95727 tag -m Add env and simple button, succeeded
+2024-11-18T21:56:54.995Z 95771 export, started
+2024-11-18T21:56:57.507Z 95771 export, succeeded
+2024-11-18T21:58:28.404Z 95850 remove kreftregisteret.designsystem/envs/react-mui, started
+2024-11-18T21:58:48.018Z 95891 delete kreftregisteret.designsystem/envs/react-mui, started
+2024-11-18T21:58:50.036Z 95891 delete kreftregisteret.designsystem/envs/react-mui, succeeded
+2024-11-18T21:59:02.578Z 95931 delete kreftregisteret.designsystem/ui/button, started
+2024-11-18T21:59:04.528Z 95931 delete kreftregisteret.designsystem/ui/button, succeeded
+2024-11-18T21:59:20.281Z 95979 delete kreftregisteret.designsystem/mui/theme/theme-provider, started
+2024-11-18T21:59:22.065Z 95979 delete kreftregisteret.designsystem/mui/theme/theme-provider, succeeded
+2024-11-18T21:59:26.489Z 96018 export, started
+2024-11-18T21:59:26.615Z 96018 export, succeeded
+2024-11-18T21:59:32.569Z 96054 status, started
+2024-11-18T21:59:32.720Z 96054 status, succeeded
+2024-11-18T21:59:57.453Z 96103 tag -m Remove comps, started
+2024-11-18T21:59:58.122Z 96103 tag -m Remove comps, succeeded
+2024-11-18T22:00:04.082Z 96145 export, started
+2024-11-18T22:00:06.574Z 96145 export, succeeded
+2024-11-18T22:02:03.474Z 96298 scope fork bitdesign.material-ui kreftregisteret.designsystem, started
+2024-11-18T22:03:24.594Z 96298 scope fork bitdesign.material-ui kreftregisteret.designsystem, succeeded
+2024-11-18T22:03:54.870Z 96611 install, started
+2024-11-18T22:04:05.968Z 96611 install, succeeded
+2024-11-18T22:04:34.838Z 96702 start, started
+2024-11-18T22:06:34.579Z 96843 status, started
+2024-11-18T22:06:46.272Z 96843 status, succeeded
+2024-11-21T06:50:23.084Z 21548 server --port 4314, started
+2024-11-21T08:17:59.032Z 27162 server --port 4339, started
+2024-11-21T08:20:12.247Z 28419 server --port 4058, started
+2024-11-21T12:20:56.824Z 35997 login, started
+2024-11-21T12:21:03.933Z 35997 login, succeeded
+2024-11-21T13:20:29.249Z 40980 status, started
+2024-11-21T13:20:33.735Z 40980 status, succeeded
+2024-11-21T21:33:40.774Z 47371 envs, started
+2024-11-21T21:33:44.666Z 47371 envs, succeeded
+2024-11-21T21:35:39.056Z 47602 start, started
+2024-11-24T14:24:30.354Z 66872 server --port 4394, started
+2024-11-25T07:35:16.041Z 71655 start, started
+2024-11-25T07:35:26.267Z 71691 compile, started
+2024-11-25T07:35:30.938Z 71691 compile, succeeded
+2024-11-25T07:35:47.266Z 71773 start, started
+2024-11-25T07:51:26.856Z 72616 status, started
+2024-11-25T07:51:31.168Z 72616 status, succeeded
+2024-11-25T07:52:12.829Z 72673 tag -m Designsystem setup, started
+2024-11-25T07:52:19.334Z 72673 tag -m Designsystem setup, succeeded
+2024-11-25T07:52:28.623Z 72723 export, started
+2024-11-25T07:53:05.880Z 72723 export, succeeded
+2024-11-25T07:53:10.906Z 72785 export, started
+2024-11-25T07:53:11.040Z 72785 export, succeeded
+2024-11-25T21:05:20.853Z 86345 envs, started
+2024-11-25T21:05:24.910Z 86345 envs, succeeded
+2024-11-26T21:26:02.610Z 89912 server --port 4494, started
+2024-11-26T21:37:54.594Z 90418 show surfaces/paper, started
+2024-11-26T21:37:55.999Z 90418 show surfaces/paper, succeeded
+2024-11-26T21:38:37.620Z 90474 show envs/material-ui-env, started
+2024-11-26T21:38:38.752Z 90474 show envs/material-ui-env, succeeded
+2024-11-27T08:25:20.518Z 95200 server --port 4649, started
+2024-11-28T08:23:42.249Z 16941 server --port 4496, started
+2024-11-28T09:53:40.307Z 21978 server --port 3723, started
+2024-11-28T11:07:15.485Z 26689 status, started
+2024-11-28T11:07:20.410Z 26689 status, succeeded
+2024-11-28T11:08:26.546Z 26775 start, started
+2024-12-02T12:17:08.699Z 98864 server --port 4553, started
+2024-12-07T09:51:45.412Z 17599 server --port 4581, started
+2024-12-07T09:54:55.912Z 18305 server --port 4651, started
+2024-12-09T08:47:52.116Z 38362 status, started
+2024-12-09T08:47:57.903Z 38362 status, succeeded

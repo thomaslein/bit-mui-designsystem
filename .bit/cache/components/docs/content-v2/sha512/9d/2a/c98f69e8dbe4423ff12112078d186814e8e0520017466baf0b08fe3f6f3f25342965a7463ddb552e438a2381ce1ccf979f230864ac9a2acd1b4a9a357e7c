@@ -1,0 +1,1 @@
+[{"filePath":"input-base.tsx","name":"InputBase","description":"","properties":[{"name":"className","description":"A custom classname to apply to the root element.","required":false,"type":"string"}],"access":"public","methods":[],"args":[],"examples":[]}]

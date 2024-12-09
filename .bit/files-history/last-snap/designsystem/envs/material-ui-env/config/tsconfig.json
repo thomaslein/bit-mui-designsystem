@@ -1,0 +1,21 @@
+/**
+ * @see https://bit.dev/reference/typescript/typescript-config
+ */
+{
+  "extends": "@bitdev/react.react-env/config/tsconfig.json",
+  "compilerOptions": {
+    // "moduleResolution": "node",
+    // "module": "es2022"
+    "moduleResolution": "NodeNext",
+    "module": "NodeNext"
+  },
+  "exclude": [
+    "artifacts",
+    "public",
+    "dist",
+    "node_modules",
+    "package.json",
+    "**/*.cjs"
+  ],
+  "include": ["**/*", "**/*.json"]
+}
