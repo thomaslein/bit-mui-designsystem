@@ -1,1 +1,0 @@
-[{"filePath":"tab-list.tsx","name":"TabList","description":"","properties":[{"name":"children","description":"A list of `<Tab />` elements.","required":false,"type":"ReactReactNode"},{"name":"className","description":"A custom className to apply to the root element.","required":false,"type":"string"}],"access":"public","methods":[],"args":[],"examples":[]}]

@@ -1,1 +1,0 @@
-[{"name":"","description":"Returns the acronym of the name in a specific color","args":[{"description":"the name to be converted to an acronym","type":null,"name":"name"}],"returns":{"description":"the acronym of the name in a specific color","type":null},"access":"public","examples":[],"render":"","properties":[],"static":false,"filePath":"string-avatar.tsx"}]

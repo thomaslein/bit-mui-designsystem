@@ -1,1 +1,0 @@
-[{"filePath":"button.tsx","name":"Button","description":"","properties":[{"name":"message","description":"","required":false,"type":"string","defaultValue":{"value":"'This is a customised MUI button!'","computed":false}}],"access":"public","methods":[],"args":[],"examples":[]}]

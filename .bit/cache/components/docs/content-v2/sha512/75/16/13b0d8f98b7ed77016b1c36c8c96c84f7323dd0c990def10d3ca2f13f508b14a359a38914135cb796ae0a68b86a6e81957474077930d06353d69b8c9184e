@@ -1,1 +1,0 @@
-[{"filePath":"theme-provider.tsx","name":"ThemeProvider","description":"","properties":[{"name":"theme","description":"","required":false,"type":"intersection","defaultValue":{"value":"createTheme(defaultTheme)","computed":true}},{"name":"children","description":"","required":true,"type":"any"}],"access":"public","methods":[],"args":[],"examples":[]}]
